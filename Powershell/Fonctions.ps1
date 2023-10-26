@@ -20,7 +20,7 @@ function CleanFolders {
         !!! La fonction ne demande aucune validation lors de la suppresion des fichiers/dossiers
 
         .PARAMETER $folder
-        liste de dossier a nettoyer 
+        liste de dossiers a nettoyer 
     #>
     param (
         $folders
