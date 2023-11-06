@@ -1,5 +1,5 @@
 # Script pour vider le cache de Microsoft Teams. vous devez arreter teams avant de l'executer 
-
+# By @habaqs
 
 $foldersTocleean=@(
     "$env:APPDATA\Microsoft\Teams\blob_storage\",

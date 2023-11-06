@@ -1,4 +1,5 @@
 # Dans ce fichier un regroupement de fonctions utile pour l'edition de script
+# By @habaqs
 
 
 
