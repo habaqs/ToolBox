@@ -35,4 +35,5 @@ Write-Host "Les modifications ont été apportées avec succès. Redémarrage de
 dism /online /disable-feature /featurename:Microsoft-hyper-v-all
 bcdedit /set hypervisorlaunchtype off
 
-Restart-Computer -Timeout 30
+Start-Sleep -Seconds 30
+Restart-Computer
