@@ -7,6 +7,7 @@ $LettreDuLecteur = "L:"
 $CheminReseau = "\\Serveur\NomDuPartage"
 $NomUtilisateur = "MonDomaine\User01"
 $MotDePasse = "UnFauxMotDePasse"
+
 # Pour que le lecteur soit présent au prochain démarrage
 $ConnexionAutomatique = $true
 
